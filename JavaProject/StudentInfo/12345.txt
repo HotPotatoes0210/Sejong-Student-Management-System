@@ -1,0 +1,5 @@
+Name: Tom
+Nationality: USA
+Day of birth: 2001/10/02
+Department: Art
+GPA: 4.0/4.5

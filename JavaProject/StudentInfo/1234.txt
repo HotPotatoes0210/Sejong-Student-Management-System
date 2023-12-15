@@ -1,0 +1,5 @@
+Name: Hung
+Nationality: Vietnam
+Day of birth: 2001/10/02
+Department: Computer Engineering
+GPA: 4.0/4.5
